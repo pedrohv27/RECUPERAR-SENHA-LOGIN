@@ -7,5 +7,4 @@ CSS</h3>
  <br>
   <br> 
 
-  <img src="![recuperar senha ](https://github.com/user-attachments/assets/fd7d4415-fd79-48ea-8e90-72870b48d446)
- " >
+  <img src="C:\Users\pedro\OneDrive\Documentos\PROJETO 5-2\img\recuperar senha .png" >
