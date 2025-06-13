@@ -72,6 +72,10 @@ input::placeholder {
     opacity: 0.5;
 }
 
+   input:not(:placeholder-shown) {
+      background-color: #d1ffd1; /* verde claro */
+    }
+
 button {
     margin-top: 60px;
     width: 80%;
