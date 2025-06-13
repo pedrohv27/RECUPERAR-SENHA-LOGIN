@@ -73,7 +73,7 @@ input::placeholder {
 }
 
    input:not(:placeholder-shown) {
-      background-color: #d1ffd1; /* verde claro */
+      background-color: transparent; /* verde claro */
     }
 
 button {
